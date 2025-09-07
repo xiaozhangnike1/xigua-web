@@ -1,15 +1,8 @@
 ## Nginx 配置
-##
-##
-
-
-
-
 
 server {
     listen 80;
     server_name _;
-
     root /var/www/short-drama-vue3;
     index index.html;
 
