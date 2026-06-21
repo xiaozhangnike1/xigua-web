@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as o,a as e,I as c}from"./index-BDgXefnA.js";const n={},l={class:"detail-page"};function r(_,a){return t(),o("div",l,[...a[0]||(a[0]=[e("h3",null,[e("span",null,"演员"),c("/"),e("span",{style:{color:"blue"}},"剧集名称")],-1)])])}const i=s(n,[["render",r],["__scopeId","data-v-8fc45613"]]);export{i as default};

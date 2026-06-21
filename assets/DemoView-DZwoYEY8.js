@@ -1,0 +1,1 @@
+import{j as s,o as a,c as r,a as o,F as l,O as m}from"./index-BDgXefnA.js";const d=s({__name:"DemoView",setup(u){const t=(n,e=5e3)=>{m.error("密码长度至少 6 位")};return(n,e)=>(a(),r(l,null,[o("button",{onClick:e[0]||(e[0]=i=>t())},"登录"),e[1]||(e[1]=o("div",null,null,-1))],64))}});export{d as default};
